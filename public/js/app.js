@@ -1,6 +1,6 @@
 //const { request } = require("express")
 
-console.log('Client side javascript file is loaded!')
+
 
 
 const weatherForm = document.querySelector('Form')
